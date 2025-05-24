@@ -1,0 +1,9 @@
+2025-05-24 16:52:01,556 - TradingBot - INFO - Connected to Binance Testnet
+2025-05-24 16:52:01,557 - TradingBot - INFO - Server time: 2025-05-24 16:52:01.590000
+2025-05-24 16:52:12,150 - TradingBot - ERROR - API Error getting account info: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-05-24 16:52:12,150 - TradingBot - ERROR - Error getting balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-05-24 16:52:59,714 - TradingBot - ERROR - API Error getting account info: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-05-24 16:52:59,718 - TradingBot - ERROR - Error getting balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-05-24 17:01:18,782 - TradingBot - INFO - Connected to Binance Testnet
+2025-05-24 17:01:18,783 - TradingBot - INFO - Server time: 2025-05-24 17:01:18.584000
+2025-05-24 17:01:24,742 - TradingBot - INFO - Account information retrieved successfully
