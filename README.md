@@ -10,7 +10,7 @@ A simplified trading bot for Binance USDT-M Futures built using Python and the o
 - 🧩 Modular & reusable code design
 - 🧾 Full command-line interface (CLI) for input handling
 - 📝 Logging for API requests, responses, and error handling
-- (Optional) Support for advanced order types like Stop-Limit and OCO
+
 
 ## 📦 Requirements
 
