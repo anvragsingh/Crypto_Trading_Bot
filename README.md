@@ -37,6 +37,7 @@ pip install -r requirements.txt
 get your api and secret key from:
 https://testnet.binancefuture.com/en/futures/BTCUSDT
 
+
 4. Run the trading bot from the terminal:
 bash
 python main.py
