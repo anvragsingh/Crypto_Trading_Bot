@@ -1,8 +1,6 @@
 
-"""
-Binance Futures Trading Bot for Testnet
-Requirements: pip install python-binance colorama
-"""
+# Binance Futures Trading Bot for Testnet
+
 
 import logging
 import json
