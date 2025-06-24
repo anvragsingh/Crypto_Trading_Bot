@@ -1,8 +1,8 @@
 # Test script - save as test_connection.py
 from binance import Client
 
-API_KEY = "your_API_key_here"
-SECRET =  "your_secret_key_here"
+API_KEY = "your_API_key"
+SECRET =  "your_secret_key"
 
 print("Testing API Connection...")
 print(f"Using API Key: {API_KEY[:10]}...{API_KEY[-10:]}")
