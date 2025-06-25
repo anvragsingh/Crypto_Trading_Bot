@@ -42,7 +42,7 @@ https://testnet.binancefuture.com/en/futures/BTCUSDT
 bash
 python main.py
 
-you're ready to go 
+
 
 
 
